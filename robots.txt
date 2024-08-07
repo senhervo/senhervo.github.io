@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://senhervo.github.io/sitemap.html.gz
+Sitemap: https://senhervo.github.io/app/sitemap.html.gz
+Sitemap: https://senhervo.github.io/assets/sitemap.html.gz
+Sitemap: https://senhervo.github.io/css/sitemap.html.gz
+Sitemap: https://senhervo.github.io/includes/sitemap.html.gz
+Sitemap: https://senhervo.github.io/item/sitemap.html.gz
+Sitemap: https://senhervo.github.io/src/sitemap.html.gz
